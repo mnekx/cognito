@@ -1,6 +1,3 @@
-* {
-  box-sizing: border-box;
-}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -14,31 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-nav {
-  justify-content: space-between;
-}
-
-ul {
-  list-style: none;
-}
-
-a {
-  color: white;
-}
- nav li {
-   margin: 0 1rem;
- }
-
- .App-header section {
-   position: absolute;
-   bottom: 2rem;
-   right: 2rem;
-   width: 25rem;
- }
-
- .nav-links {
-   align-items: center;
- }
-
-@import url('./utilities.css');
