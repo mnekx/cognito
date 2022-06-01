@@ -1,0 +1,11 @@
+.DFlex {
+    display: flex;
+}
+
+.DNone {
+    display: none;
+}
+
+.DBlock {
+    display: block;
+}
