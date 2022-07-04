@@ -9,3 +9,7 @@
 .DBlock {
     display: block;
 }
+
+.DGrid {
+    display: grid;
+}
